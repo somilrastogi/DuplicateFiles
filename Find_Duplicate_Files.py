@@ -29,7 +29,7 @@ def find_duplicates(folder_path):
     return duplicates
 
 # Example usage
-folder = r"G:\My Drive\My_Data\Sizing Calc 2.0\2025\ServiceNow\pdf_attachments\2025"
+folder = r"H:\Folderlocation" #Place the Folder Location"
 duplicates = find_duplicates(folder)
 
 if duplicates:
